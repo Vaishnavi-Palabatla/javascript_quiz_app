@@ -9,6 +9,16 @@
         ],
         "correctAnswer": 0
     },
+     {
+        "question": "_______ JavaScript is also called server-side JavaScript",
+        "choices": [
+            " Microsoft",
+            "Navigator",
+            "LiveWire",
+            "All the above"
+        ],
+        "correctAnswer": 2
+    },
     {
         "question": "In AJAX you can ",
         "choices": [
@@ -60,33 +70,33 @@
         "correctAnswer": 0
     },
     {
-        "question": "_____ Of the following technologies, which one provides the ability to dynamically interact with Web page layout?",
+        "question": "Which one of these technologies is NOT used in AJAX?",
         "choices": [
-            "XML",
-            "HTML",
-            "JavaScript",
-            "Document Object Model"
+            "CSS",
+            "DOM",
+            "DHTML",
+            "Flash"
         ],
         "correctAnswer": 3
     },
     {
-        "question": "What does the XMLHttpRequest object accomplish in Ajax?",
+        "question": "AJAX made popular by",
         "choices": [
-            "It provides the ability to asynchronously exchange data between Web browser and a Web server",
-            "It's the programming language used to develop Ajax applications",
-            "It provides the ability to markup and style the display of web-page text",
-            "It provides a means of exchanging structured data between the Web server and client"
+            "Microsoft",
+            "IBM",
+            "Sun Microsystem",
+            "Google"
         ],
         "correctAnswer": 0
     },
     {
-        "question": " What two main structures compose JSON?",
+        "question": "_____ JavaScript is also called client-side JavaScript",
         "choices": [
-            "Key and value",
-            "Class and Object",
-            "Arrays and Objects",
-            "None of the above"
+            "Microsoft",
+            "Navigator",
+            "LiveWire",
+            "Native"
         ],
-        "correctAnswer": 0
+        "correctAnswer": 1
     }
 ]
