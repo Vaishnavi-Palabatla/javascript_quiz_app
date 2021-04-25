@@ -2,43 +2,23 @@
 [
     {
     
-        "toDoItems": "My Die I'll Die"
+        "toDoItems": "classes"
        
       },
       {
     
-        "toDoItems": "Bokka le"
+        "toDoItems": "Assignment"
        
       },
       {
     
-        "toDoItems": "Avasarama"
+        "toDoItems": "movies"
        
       },
-      {
-    
-        "toDoItems": "Thum offline chalo"
-       
-      },
-      {
-    
-        "toDoItems": "Mamulga Undadu"
-       
-      },
-      {
-    
-        "toDoItems": "Inka enni chustav"
-       
-      },
-      {
-    
-        "toDoItems": "Last but not the least"
-       
-      }, 
-
+      
     {
     
-      "toDoItems": "Aipayeee!!"
+      "toDoItems": "hackerrank"
      
     }
 ]
