@@ -1,24 +1,6 @@
 
-[
-    {
-    
-        "toDoItems": "classes"
-       
-      },
-      {
-    
-        "toDoItems": "Assignment"
-       
-      },
-      {
-    
-        "toDoItems": "movies"
-       
-      },
-      
-    {
-    
-      "toDoItems": "hackerrank"
-     
-    }
-]
+[{"items":"My First Task"},
+ {"items":"My First Task2"},
+ {"items":"My First Task3"},
+ {"items":"My First Task4"},
+ {"items":"My First Task5"}]
